@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\bin\Debug\Hospital Bill Calculator.exe.config
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\bin\Debug\Hospital Bill Calculator.exe
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\bin\Debug\Hospital Bill Calculator.pdb
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\obj\Debug\Hospital Bill Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\obj\Debug\Hospital Bill Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\obj\Debug\Hospital Bill Calculator.exe
+C:\Users\DELL\source\repos\Hospital Bill Calculator\Hospital Bill Calculator\obj\Debug\Hospital Bill Calculator.pdb
